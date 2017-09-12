@@ -15,12 +15,7 @@ public class TokoMaterial {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        // this new line
-        // this new line again
-        // new line again from artemtech
-        
-        // aku nambah lagi terakhir
+       test;
     }
     
 }
